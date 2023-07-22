@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>zsdfbb space</title>
     <subtitle>zsdfbb的个人空间</subtitle>
-    <link href="https://zsdfbb.gitee.io/atom.xml" rel="self" type="application/atom+xml"/>
-    <link href="https://zsdfbb.gitee.io"/>
+    <link href="https://zsdfbb.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://zsdfbb.github.io"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2023-07-16T00:00:00+00:00</updated>
-    <id>https://zsdfbb.gitee.io/atom.xml</id>
+    <id>https://zsdfbb.github.io/atom.xml</id>
     <entry xml:lang="en">
         <title>Linux调试环境</title>
         <published>2023-07-16T00:00:00+00:00</published>
@@ -14,8 +14,8 @@
         <author>
           <name>Unknown</name>
         </author>
-        <link rel="alternate" href="https://zsdfbb.gitee.io/linux-debug-environment/" type="text/html"/>
-        <id>https://zsdfbb.gitee.io/linux-debug-environment/</id>
+        <link rel="alternate" href="https://zsdfbb.github.io/linux-debug-environment/" type="text/html"/>
+        <id>https://zsdfbb.github.io/linux-debug-environment/</id>
         
         <content type="html">&lt;h1 id=&quot;gou-jian-linuxdiao-shi-huan-jing&quot;&gt;构建linux调试环境&lt;&#x2F;h1&gt;
 &lt;p&gt;由于研究linux内核的需要，我需要一个基于qemu&#x2F;gdb&#x2F;aarch64&#x2F;linux 6.2 的调试环境。

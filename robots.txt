@@ -1,4 +1,4 @@
-Sitemap: https://zsdfbb.gitee.io/sitemap.xml
+Sitemap: https://zsdfbb.github.io/sitemap.xml
 User-Agent: *
 Allow: /
-Host: https://zsdfbb.gitee.io
+Host: https://zsdfbb.github.io
