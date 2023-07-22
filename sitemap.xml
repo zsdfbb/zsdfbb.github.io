@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://zsdfbb.gitee.io/</loc>
+    </url>
+    <url>
+        <loc>https://zsdfbb.gitee.io/about/</loc>
+    </url>
+    <url>
+        <loc>https://zsdfbb.gitee.io/categories/</loc>
+    </url>
+    <url>
+        <loc>https://zsdfbb.gitee.io/categories/technology/</loc>
+    </url>
+    <url>
+        <loc>https://zsdfbb.gitee.io/contact/</loc>
+    </url>
+    <url>
+        <loc>https://zsdfbb.gitee.io/linux-debug-environment/</loc>
+        <lastmod>2023-07-16</lastmod>
+    </url>
+    <url>
+        <loc>https://zsdfbb.gitee.io/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://zsdfbb.gitee.io/posts/</loc>
+    </url>
+    <url>
+        <loc>https://zsdfbb.gitee.io/privacy/</loc>
+    </url>
+    <url>
+        <loc>https://zsdfbb.gitee.io/tags/</loc>
+    </url>
+    <url>
+        <loc>https://zsdfbb.gitee.io/tags/linux/</loc>
+    </url>
+</urlset>
