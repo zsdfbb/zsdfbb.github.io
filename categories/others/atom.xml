@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>zsdfbb space - Others</title>
+    <subtitle>zsdfbb space</subtitle>
+    <link href="https://zsdfbb.github.io/categories/others/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://zsdfbb.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-08-21T00:00:00+00:00</updated>
+    <id>https://zsdfbb.github.io/categories/others/atom.xml</id>
+    <entry xml:lang="en">
+        <title>neovim_推荐</title>
+        <published>2023-08-21T00:00:00+00:00</published>
+        <updated>2023-08-21T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://zsdfbb.github.io/neovim-tui-jian/" type="text/html"/>
+        <id>https://zsdfbb.github.io/neovim-tui-jian/</id>
+        
+        <content type="html">&lt;h1 id=&quot;neovim-tui-jian&quot;&gt;neovim_推荐&lt;&#x2F;h1&gt;
+&lt;h1 id=&quot;neovimjie-shao&quot;&gt;neovim介绍&lt;&#x2F;h1&gt;
+&lt;p&gt;**Neovim是一个旨在积极重构Vim源代码的项目，以实现以下目标：简化维护，提高bug修复和特性合并的速度。它诞生于2014年，是Vim editor的一个分支。**它的设计考虑到了现代用户，用Lua语言编写，目标是将代码模块化，使其更易于管理。&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;tui-jian-yuan-yin&quot;&gt;推荐原因：&lt;&#x2F;h2&gt;
+&lt;p&gt;Neovim近年来在开发人员和高级用户中获得了广泛的欢迎。它受欢迎的原因之一是可扩展性，它允许用户自定义和配置它以满足他们的需求。Neovim的插件使用“更通用的语言”——Lua，它是一种比Vimscript更通用的语言，允许您以更现代、更灵活的方式编写插件。neovim的主要优势：&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;可扩展性&lt;&#x2F;strong&gt;: Neovim是高度可扩展的，允许用户自定义和配置它，以满足他们的需求。在neovim上我们可以使用Packer插件管理器、gruvbox主题、LSP代码补全、文件和文本的模糊搜索、代码高亮等插件功能。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;灵活性&lt;&#x2F;strong&gt;: Neovim是一个强大而灵活的文本编辑器，近年来在开发人员和高级用户中获得了很多人气。我们自定义各种快捷键，方便自己使用。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;异步作业控制&lt;&#x2F;strong&gt;: Neovim具有异步作业控制，允许您在后台运行命令而不阻塞编辑器。该特性在LSP上体现明显。Neovim的LSP (Language Server Protocol)是一个插件，为内置的LSP客户端提供配置。它允许我们使用语言服务器为各种编程语言提供代码补全、语法检查和函数跳转等特性。&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;内置终端仿真器: ​&lt;&#x2F;strong&gt;Neovim有一个内置的终端仿真器，允许您直接在编辑器内运行命令。这可以避免我们来换切换编辑和命令窗口。&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;ru-he-shi-yong-neovim&quot;&gt;如何使用neovim&lt;&#x2F;h2&gt;
+&lt;p&gt;首先，如何我们使用neovim？我们可以参考官方文档：&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;neovim.io&#x2F;doc&#x2F;user&#x2F;quickref.html&quot;&gt;Quickref - Neovim docs&lt;&#x2F;a&gt;。&lt;&#x2F;p&gt;
+&lt;p&gt;当然，由于neovim和vim的使用十分类似，我们也可以学习网上免费的开源课程：&lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.imooc.com&#x2F;learn&#x2F;1129&quot;&gt;玩转Vim 从放弃到爱不释手-Vim入门-慕课网 (imooc.com)&lt;&#x2F;a&gt;。这个课程会介绍vim的使用。&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;ru-he-pei-zhi-neovim&quot;&gt;如何配置neovim&lt;&#x2F;h2&gt;
+&lt;p&gt;之后我将完成一系列的博客，介绍如何配置neovim，比如neovim的插件管理、常用插件、快捷键配置等内容。这是一些效果展示：&lt;&#x2F;p&gt;
+&lt;p&gt;gruvbox主题：&lt;&#x2F;p&gt;
+&lt;p&gt;​&lt;img src=&#x27;&#x2F;assets&#x2F;image-20230721215711-v30moku.png&#x27;&#x2F;&gt;​&lt;&#x2F;p&gt;
+&lt;p&gt;模糊匹配&lt;&#x2F;p&gt;
+&lt;p&gt;​&lt;img src=&#x27;&#x2F;assets&#x2F;image-20230721215139-ubwtij9.png&#x27;&#x2F;&gt;​&lt;&#x2F;p&gt;
+&lt;p&gt;模糊文件搜索&lt;&#x2F;p&gt;
+&lt;p&gt;​&lt;img src=&#x27;&#x2F;assets&#x2F;image-20230721210450-sniwcl2.png&#x27;&#x2F;&gt;​&lt;&#x2F;p&gt;
+&lt;p&gt;代码提示和补全：&lt;&#x2F;p&gt;
+&lt;p&gt;​&lt;img src=&#x27;&#x2F;assets&#x2F;image-20230721215418-mbniaz6.png&#x27;&#x2F;&gt;​&lt;&#x2F;p&gt;
+&lt;p&gt;​&lt;img src=&#x27;&#x2F;assets&#x2F;image-20230721215619-fpiyz9n.png&#x27;&#x2F;&gt;​&lt;&#x2F;p&gt;
+&lt;p&gt;‍&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

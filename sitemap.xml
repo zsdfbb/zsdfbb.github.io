@@ -10,14 +10,21 @@
         <loc>https://zsdfbb.github.io/categories/</loc>
     </url>
     <url>
+        <loc>https://zsdfbb.github.io/categories/others/</loc>
+    </url>
+    <url>
         <loc>https://zsdfbb.github.io/categories/technology/</loc>
     </url>
     <url>
         <loc>https://zsdfbb.github.io/contact/</loc>
     </url>
     <url>
-        <loc>https://zsdfbb.github.io/linux-debug-environment/</loc>
+        <loc>https://zsdfbb.github.io/linuxdiao-shi-huan-jing/</loc>
         <lastmod>2023-07-16</lastmod>
+    </url>
+    <url>
+        <loc>https://zsdfbb.github.io/neovim-tui-jian/</loc>
+        <lastmod>2023-08-21</lastmod>
     </url>
     <url>
         <loc>https://zsdfbb.github.io/page/1/</loc>
@@ -33,5 +40,8 @@
     </url>
     <url>
         <loc>https://zsdfbb.github.io/tags/linux/</loc>
+    </url>
+    <url>
+        <loc>https://zsdfbb.github.io/tags/others/</loc>
     </url>
 </urlset>
