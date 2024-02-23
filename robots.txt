@@ -1,4 +1,4 @@
-Sitemap: https://zsdfbb.github.io/sitemap.xml
-User-Agent: *
+User-agent: *
+Disallow:
 Allow: /
-Host: https://zsdfbb.github.io
+Sitemap: https://jackofcode.top/sitemap.xml

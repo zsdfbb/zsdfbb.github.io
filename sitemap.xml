@@ -1,47 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://zsdfbb.github.io/</loc>
+        <loc>https://jackofcode.top/</loc>
     </url>
     <url>
-        <loc>https://zsdfbb.github.io/about/</loc>
+        <loc>https://jackofcode.top/author/</loc>
     </url>
     <url>
-        <loc>https://zsdfbb.github.io/categories/</loc>
+        <loc>https://jackofcode.top/blog/</loc>
     </url>
     <url>
-        <loc>https://zsdfbb.github.io/categories/others/</loc>
+        <loc>https://jackofcode.top/blog/demo/</loc>
+        <lastmod>2024-01-01</lastmod>
     </url>
     <url>
-        <loc>https://zsdfbb.github.io/categories/technology/</loc>
+        <loc>https://jackofcode.top/blog/page/1/</loc>
     </url>
     <url>
-        <loc>https://zsdfbb.github.io/contact/</loc>
+        <loc>https://jackofcode.top/categories/</loc>
     </url>
     <url>
-        <loc>https://zsdfbb.github.io/linuxdiao-shi-huan-jing/</loc>
-        <lastmod>2023-07-16</lastmod>
+        <loc>https://jackofcode.top/categories/demo/</loc>
     </url>
     <url>
-        <loc>https://zsdfbb.github.io/neovim-tui-jian/</loc>
-        <lastmod>2023-08-21</lastmod>
+        <loc>https://jackofcode.top/categories/demo/page/1/</loc>
     </url>
     <url>
-        <loc>https://zsdfbb.github.io/page/1/</loc>
+        <loc>https://jackofcode.top/tags/</loc>
     </url>
     <url>
-        <loc>https://zsdfbb.github.io/posts/</loc>
+        <loc>https://jackofcode.top/tags/demo/</loc>
     </url>
     <url>
-        <loc>https://zsdfbb.github.io/privacy/</loc>
-    </url>
-    <url>
-        <loc>https://zsdfbb.github.io/tags/</loc>
-    </url>
-    <url>
-        <loc>https://zsdfbb.github.io/tags/linux/</loc>
-    </url>
-    <url>
-        <loc>https://zsdfbb.github.io/tags/others/</loc>
+        <loc>https://jackofcode.top/tags/demo/page/1/</loc>
     </url>
 </urlset>
