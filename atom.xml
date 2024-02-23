@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title>Jack of Code</title>
     <subtitle>我是一名爱好广泛的程序员，对操作系统、安全、AI、读书、摄影、美食都感兴趣~</subtitle>
-    <link rel="self" type="application/atom+xml" href="https://jackofcode.top/atom.xml"/>
-    <link rel="alternate" type="text/html" href="https://jackofcode.top/"/>
+    <link rel="self" type="application/atom+xml" href="https://zsdfbb.github.io/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://zsdfbb.github.io/"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
     <updated>2024-01-01T00:00:00+00:00</updated>
-    <id>https://jackofcode.top/atom.xml</id>
+    <id>https://zsdfbb.github.io/atom.xml</id>
     <entry xml:lang="en">
         <title>Demo</title>
         <published>2024-01-01T00:00:00+00:00</published>
@@ -20,10 +20,10 @@
           </name>
         </author>
         
-        <link rel="alternate" type="text/html" href="https://jackofcode.top/blog/demo/"/>
-        <id>https://jackofcode.top/blog/demo/</id>
+        <link rel="alternate" type="text/html" href="https://zsdfbb.github.io/blog/demo/"/>
+        <id>https://zsdfbb.github.io/blog/demo/</id>
         
-        <content type="html" xml:base="https://jackofcode.top/blog/demo/">&lt;hr &#x2F;&gt;
+        <content type="html" xml:base="https://zsdfbb.github.io/blog/demo/">&lt;hr &#x2F;&gt;
 &lt;h1 id=&quot;wo-de-blog-demo&quot;&gt;我的Blog Demo&lt;&#x2F;h1&gt;
 &lt;p&gt;这是一个demo页面&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;wen-ben&quot;&gt;文本&lt;&#x2F;h2&gt;
