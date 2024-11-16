@@ -8,10 +8,14 @@ categories: [hexo]
 
 # hexo 介绍、安装与使用
 
-hexo 是一个快速、简洁且高效的博客框架。卧室哟
+hexo 是一个快速、简洁且高效的博客框架。我使用它来搭建我的个人站点。
 
-https://hexo.io/zh-cn/docs/setup
+安装使用：[https://hexo.io/zh-cn/docs/setup](https://hexo.io/zh-cn/docs/setup) 
 
-创建文章
+常用命令：
 
-    hexo new post "title"
+1. 创建文章
+
+```bash
+hexo new post "文章标题"
+```
