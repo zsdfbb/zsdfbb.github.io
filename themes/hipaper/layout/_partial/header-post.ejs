@@ -1,8 +1,9 @@
 <% if (is_current("about", false) && theme.about_big_image){ %>
-  
+  <!-- 
   <div class="site-header-image">
-    <!-- <img id="originBg" width="100%" alt="Hike News" src=""> -->
+    <img id="originBg" width="100%" alt="Hike News" src=""> 
   </div>
+  -->
 
   <div id="header-blur" class="site-header-image blur" style="position: absolute; top:0; height: 207px; min-height: 207px; min-width: 100%;">
   </div>
@@ -21,9 +22,7 @@
           <h1 class="site-title">
             <% if (theme.avatar.enable){ %>
               <a href="<%= config.root %>" rel="home" >
-                <!--
                 <img style="margin-bottom: <%= theme.avatar.bottom %>px;"  width="<%= theme.avatar.width %>px" height="<%= theme.avatar.height %>px" alt="Hike News" src="<% if (!(theme.avatar.url.startsWith('http') || theme.avatar.url.indexOf('://') >= 0)){ %> <%-config.root %><% } %><%- theme.avatar.url %>">
-                -->
               </a>
             <% } else { %>
               <a href="<%= config.root %>" title="<%= config.title %>" rel="home"> <%= config.title %> </a>
