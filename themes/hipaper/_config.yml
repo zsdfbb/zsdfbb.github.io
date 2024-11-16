@@ -56,9 +56,9 @@ widgets:
 # Key is the name of FontAwsome icon.
 # Value is the target link (E.g. GitHub: https://github.com/iTimeTraveler)
 social:
-  Github: /project/github
-  WeChat: /project/wechat
-  Mail-forward: /project/email
+  Github: /github
+  WeChat: /wechat
+  Mail-forward: /email
 
 # Search
 search:
