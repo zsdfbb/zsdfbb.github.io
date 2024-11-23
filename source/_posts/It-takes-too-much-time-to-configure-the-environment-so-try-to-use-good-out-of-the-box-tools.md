@@ -22,7 +22,7 @@ Currently, I use the VS Code as my main development editor. It can simply connec
 
 After some research, I found the Helix Editor, a text editor similar to Vim. Its opeartion and usage method is very similar to Vim, which makes me comfortable with it. And it comes with  capabilities such as syntax highlighting, file search, and text search by itself, I don't need to install plugins. I think it is a good choice for me!
 
-Here is the official comparison introduction. ![Comparison of Vim and Helix](1.png)
+Here is the official comparison introduction. ![Comparison of Vim and Helix](image.png)
 
 Currently, the Helix is still in the development, but it can alreay be used as my daily command line tool. :smile: 
 

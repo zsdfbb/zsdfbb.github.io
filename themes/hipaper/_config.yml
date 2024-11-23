@@ -4,11 +4,11 @@
 
 # Header Menu
 menu:
-  Home: /
-  Archives: archives
-  Categories: categories
-  Tags: tags
-  About: about
+  主页/Home: /
+  归档/Archives: archives
+  分类/Categories: categories
+  标签/Tags: tags
+  关于/About: about
 rss: /atom.xml
 
 
