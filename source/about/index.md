@@ -1,23 +1,21 @@
 ---
 title: 关于我
-date: 2024-11-15 23:53:12
+date: 2025-1-15 23:53:12
 ---
 
 ## 教育经历
 
+学士，东北大学，计算机科学与技术，2013.9~2017.7（保研）
+
 硕士，东北大学，计算机系统结构，2017.9~2020.1
 
-学士，东北大学，计算机科学与技术，2013.9~2017.7
-
-通过了 CET4/6 英语等级考试
-
-CIPM 持证
+数学建模竞赛一等奖, 英语等级 CET4/6, CIPM 持证
 
 ## 工作经历
 
 - 字节跳动，火山小视频，实习，后端工程师，2019.4~2019.8
 
-- 华为，2012实验室，操作系统研发工程师，2020.1~至今
+- 华为，2012实验室，操作系统研发工程师，2020.4~至今
 
 ## 项目经历
 
@@ -32,13 +30,9 @@ CIPM 持证
 
 - DIFT(Dynamic Information Flow Tracking): 基于 PicoRV32 处理器，对敏感信息进行跟踪、标记(Tag Memory)和传播(Tag Propagation)，保护安全数据的机密性。
 
-- 开源项目: 开发维护了一个 Intel 处理器上的简单操作系统，它实现了简单的内存管理和调度器，能够在 Bochs 进行仿真运行。 项目地址：https://github.com/zhangshuai-neu/pt_os
-
-
 ### 字节实习时期
 
 - 火山小视频后端风控：风险控制相关后端开发，包括对用户上传的视频、图片、文本进行自动化审核。
-
 
 ### 华为工作时期
 
@@ -58,14 +52,16 @@ CIPM 持证
 
 #### 渗透测试与安全评估
 
-- 担任自研内核渗透测试团队的第一任队长。针对鸿蒙内核进行渗透测试，发现并修复了多个安全漏洞。
+- 担任自研内核攻防团队的第一任队长。针对自研内核进行渗透测试，发现并修复了多个安全漏洞。
 
-- 投入内部网络安全实验室，负责自研内核的安全评估工作，对自研内核的安全能力、抗攻击能力进行全面、系统的评估。
+- 负责组织自研内核的商用前的安全保障工作，确保自研内核在手机场景安全商用。
+
+- 投入内部网络安全实验室，负责自研内核的安全评估工作，对自研内核进行深入分析，并对其安全能力、抗攻击能力进行全面、系统的评估。
 
 #### 创新工作
 
 - OS/Security/RAG(Retrieval-Augmented Generation)/AI Agents等相关的创新工作。
-  
+
 - 担任项目经理，负责与中国人民大学的多智能体协作校企合作项目
 
 ### 论文和专利
@@ -74,8 +70,7 @@ CIPM 持证
 
 Internet-of-Things Security and Vulnerabilities: Taxonomy, Challenges, and Practice[J]. Journal of Hardware & Systems Security, 2018
 
-Toward Private, Trusted, and Fine-Grained Inference Cloud Outsourcing
-，ICNP CEC'24，2024
+Toward Private, Trusted, and Fine-Grained Inference Cloud Outsourcing，ICNP CEC'24，2024
 
 #### 专利
 
