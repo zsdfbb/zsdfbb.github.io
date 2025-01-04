@@ -74,8 +74,7 @@ CIPM 持证
 
 Internet-of-Things Security and Vulnerabilities: Taxonomy, Challenges, and Practice[J]. Journal of Hardware & Systems Security, 2018
 
-Toward Private, Trusted, and Fine-Grained Inference Cloud Outsourcing
-，ICNP CEC'24，2024
+Toward Private, Trusted, and Fine-Grained Inference Cloud Outsourcing，ICNP CEC'24，2024
 
 #### 专利
 
